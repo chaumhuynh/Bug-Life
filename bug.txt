@@ -1,0 +1,7 @@
+Bug Life Cycle
+- the specific set of states that a bug goes through from discovery to defect fixation / during its lifetime
+- varies from organization to organization, from project to project and depends upon the tools used
+
+
+- Severity is the level of impact a bug has on the functionality of the application
+- Priority is the order in which a bug should be fixed
