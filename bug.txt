@@ -5,3 +5,10 @@ Bug Life Cycle
 
 - Severity is the level of impact a bug has on the functionality of the application
 - Priority is the order in which a bug should be fixed
+
+***Label / Status of Bug Life Cycle
+- New - when the bug is found, logged and posted for the first time
+- Assigned - once bug is posted by tester, lead of tester approves the bug and assigns to development team
+- Open - developer starts analyzing and works on defect fix
+- Fixed - when developer makes necessary code changes and verifies the fix
+- Retest - testers retest to see if bug has been fixed successfully or not
